@@ -5,7 +5,7 @@ Here are some things to remember:
 
 • Please don't form your reputation of Hook from early source code.
 
-# Building
+# Usage
 Here is a step by step guide to using Hook.
 
 1. Download the Hook source code.
