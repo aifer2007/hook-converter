@@ -1,7 +1,7 @@
 # Notes
 Here are some things to remember:
 
-• Hook is very glitchy, and can not currently convert projects.
+• Hook is still highly experimental, and currently can not currently convert projects.
 
 • Please don't form your reputation of Hook from early source code.
 
